@@ -1,0 +1,6 @@
+[TeamDrive0]
+type = drive
+scope = drive
+token = {"access_token":"ya29.A0ARrdaM-QJqwKnZ4OfPdmqys-LLvrZTI6LT4LQiOtb0z82p-jap7_36xiv9rR4zqH3Fawkqu4CubX6BktkMEla1YhesxB57xl6yIq6du2hdq0Njzo66T79ZsvgZJJc-wOFCJWOxnPvFsCBPlPKKQ6fwF6dz8d","token_type":"Bearer","refresh_token":"1//0g-W8YkB9LvDWCgYIARAAGBASNwF-L9IrSC02jOq3vUBCzZnYQ2lQJtUsFqDOaap36MYE0znDlh7TJor0F3twr-ibqiqDf-bU_nE","expiry":"2022-04-03T15:31:02.1327327+05:30"}
+team_drive = 0AKmNjQ-p5NXEUk9PVA
+root_folder_id =
